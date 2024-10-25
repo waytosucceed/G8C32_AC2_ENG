@@ -1,0 +1,326 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Convert the following sentence from simple present negative sentence to simple past negative sentence: 'She does not understand complicated Maths problems.'",
+        "options": [
+            "She did not understand complicated Maths problems.",
+            "She does not understand complicated Maths problems.",
+            "She had not understood complicated Maths problems.",
+            "She will not understand complicated Maths problems."
+        ],
+        "correct": 0,
+        "explanation": "The simple present negative sentence structure, that is, S+does+not+V1+O changes to simple past negative sentence structure, that is, S+did+not+V1+O."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Convert the following sentence from simple present affirmative sentence to simple past affirmative sentence: 'She wears embellished dresses at grand parties.'",
+        "options": [
+            "She had worn embellished dresses at grand parties.",
+            "She wore embellished dresses at grand parties.",
+            "She will wear embellished dresses at grand parties.",
+            "She would wear embellished dresses at grand parties."
+        ],
+        "correct": 1,
+        "explanation": "The simple present affirmative sentence changes the verb form from V1, that is ‘wears’ to V2, that is ‘wore’, when converted into a simple past affirmative sentence."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Convert the following simple present affirmative sentence 'She enjoys reading books.' to a simple past interrogative sentence.",
+        "options": [
+            "Did she enjoyed reading books?",
+            "Does she enjoyed reading books?",
+            "Did she enjoy reading books?",
+            "Was she enjoying reading books?"
+        ],
+        "correct": 2,
+        "explanation": "To convert a simple present affirmative sentence to a simple past interrogative, use 'Did' followed by the subject and the base form of the main verb. Here, 'enjoys' changes to 'Did she enjoy' because 'Did' indicates the past tense, and the main verb remains in its base form."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Convert the following simple present negative sentence 'They do not attend the meetings.' to a simple past interrogative negative sentence.",
+        "options": [
+            "Did they not attended the meetings?",
+            "Did they not attend the meetings?",
+            "Did not they attend the meetings?",
+            "Were they not attending the meetings?"
+        ],
+        "correct": 1,
+        "explanation": "For this conversion, 'Did' is used at the beginning, followed by the subject 'they' and 'not.' The verb 'attend' stays in its base form because 'Did' expresses the past tense. The structure is 'Did they not attend the meetings?' to form a past interrogative negative sentence."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Convert the sentence 'The dog does not bark at strangers.' to a simple past interrogative negative sentence.",
+        "options": [
+            "Did the dog not bark at strangers?",
+            "Did the dog not barked at strangers?",
+            "Did not the dog bark at strangers?",
+            "Was the dog not barking at strangers?"
+        ],
+        "correct": 0,
+        "explanation": "When converting to a simple past interrogative negative, use 'Did' followed by the subject 'the dog' and 'not.' The main verb 'bark' remains in its base form because 'Did' indicates the past tense. The correct formation is 'Did the dog not bark at strangers?'"
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Spot the error in the sentence: 'Water boiled at 100 degree celsius.'",
+        "options": [
+            "Water boiled",
+            "At 100 degree",
+            "Celsius",
+            "No error"
+        ],
+        "correct": 0,
+        "explanation": "The correct answer is part (a) because this sentence represents a scientific fact. Scientific facts are always written in simple present tense, so the correct sentence should be 'Water boils at 100 degree celsius.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Spot the error in the sentence: 'They did not drove the car at a desirable speed.'",
+        "options": [
+            "They did",
+            "Not drove",
+            "The car",
+            "At a desirable speed"
+        ],
+        "correct": 1,
+        "explanation": "The correct answer is part (b) because in simple past tense, the structure followed is S+did+not+V1+O. The correct sentence should be 'They did not drive the car at a desirable speed.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The organisation ______not monitor the changes after every week.",
+        "options": [
+            "does",
+            "did",
+            "do",
+            "all of these"
+        ],
+        "correct": 0,
+        "explanation": "Every week shows that the action does not occur after a fixed interval of time. And a fixed interval of time falls under the domain of simple present tense. Also, since the organisation is singular in nature, therefore, the auxiliary verb ‘does’ will be chosen as the correct answer."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "That group of people _______with one another in the last meeting.",
+        "options": [
+            "cooperates",
+            "does cooperate",
+            "do cooperate",
+            "cooperated"
+        ],
+        "correct": 3,
+        "explanation": "“Last meeting” shows that the action belongs in the past and therefore V2 form must be chosen. Therefore, option (d) is the correct answer."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "The birds _____ (sing) every morning in the garden.",
+        "options": [
+            "Sings",
+            "Sing",
+            "Sang",
+            "Sung"
+        ],
+        "correct": 1,
+        "explanation": "The subject \"birds\" is plural, so we use the base form of the verb \"sing.\" In the simple present tense, we add \"s\" or \"es\" to the verb only for singular third-person subjects (e.g., he, she, it), but for plural subjects, the base form remains unchanged."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "They _____ (finish) their homework before dinner last night.",
+        "options": [
+            "Finishes",
+            "Finished",
+            "Finish",
+            "Finishing"
+        ],
+        "correct": 1,
+        "explanation": "The sentence refers to a completed action in the past (indicated by \"last night\"), so we use the simple past form of the verb. The past tense of \"finish\" is \"finished.\""
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "He _____ (forget) his keys at home, so he _____ (return) to get them before leaving for work.",
+        "options": [
+            "forgot, returned",
+            "forget, return",
+            "forgotten, returned",
+            "forgets, return"
+        ],
+        "correct": 0,
+        "explanation": "The verbs \"forget\" and \"return\" both refer to completed actions in the past, so they need to be in the simple past tense. The correct forms are \"forgot\" (simple past of forget) and \"returned.\""
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "When the storm _____ (hit), we _____ (be) completely unprepared.",
+        "options": [
+            "hit, were",
+            "hit, was",
+            "hits, were",
+            "had hit, were"
+        ],
+        "correct": 0,
+        "explanation": "Both actions occurred in the past, so the simple past tense is used for both verbs. The correct past form of \"hit\" is \"hit\" (same as base form), and the correct past form of \"be\" for the plural subject \"we\" is \"were.\""
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "They _____ (not expect) the meeting to last so long, but it _____ (end) late in the evening.",
+        "options": [
+            "didn't expect, ended",
+            "didn’t expected, ended",
+            "not expect, end",
+            "didn't expect, end"
+        ],
+        "correct": 0,
+        "explanation": "For negative sentences in the past tense, we use \"didn't\" followed by the base form of the verb, so \"expect\" is correct. The second verb \"end\" should be in the simple past tense, which is \"ended.\""
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "After he _____ (hear) the news, he immediately _____ (call) his best friend to share it.",
+        "options": [
+            "hears, called",
+            "heard, called",
+            "heard, calls",
+            "hears, calling"
+        ],
+        "correct": 1,
+        "explanation": "Both actions took place in the past, so \"hear\" and \"call\" must be in the simple past tense. \"Heard\" is the simple past form of \"hear,\" and \"called\" is the simple past form of \"call.\""
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "___ she make significant progress on her research before the summer break?",
+        "options": [
+            "Did",
+            "Does",
+            "Was",
+            "Had"
+        ],
+        "correct": 0,
+        "explanation": "The question concerns a completed action in the past (\"before the summer break\"). Thus, \"did\" is used with the base form \"make\" to form the interrogative sentence."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "___ her extensive knowledge of the subject consistently enhance her ability to lead the workshops effectively?",
+        "options": [
+            "Does",
+            "Do",
+            "Has",
+            "Had"
+        ],
+        "correct": 0,
+        "explanation": "The subject \"her extensive knowledge\" is singular, requiring \"does\" in the simple present tense. The base form \"enhance\" follows \"does\" to complete the question."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which tense has been used in the following sentence?\nThe administration resolved the queries of the students.",
+        "options": [
+            "Simple Past Affirmative",
+            "Simple Past Negative",
+            "Simple Present Affirmative",
+            "Simple Present Negative"
+        ],
+        "correct": 0,
+        "explanation": "In the given sentence, the verb that has been used, that is ‘resolved,’ is the second form of the verb. Therefore, the given sentence satisfies the rule of simple past tense, that is, S+V2+O."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which tense has been used in the following sentence?\nThe student does not fulfil the eligibility criteria.",
+        "options": [
+            "Simple Present Affirmative",
+            "Simple Present Negative",
+            "Simple Past Affirmative",
+            "Simple Past Negative"
+        ],
+        "correct": 1,
+        "explanation": "The given sentence is according to the structural rule of a simple present tense negative sentence, that is, S+does+not+V1+O. The sentence can be represented as: The (Article) + student (S) + does (Auxiliary Verb) + not + fulfil (V1) + the (Article) + eligibility criteria (O)."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which tense has been used in the following sentence?\nHe did not approve the request.",
+        "options": [
+            "Simple Past Negative",
+            "Simple Past Affirmative",
+            "Simple Present Affirmative",
+            "Simple Present Negative"
+        ],
+        "correct": 0,
+        "explanation": "The given sentence follows the structural rule of a simple past tense negative sentence, that is, S+did+not+V1+O. The sentence can be represented as: He (S) + did (Auxiliary Verb) + not + approve (V1) + the (Article) + request (O)."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Choose the correct form of the verb in the following sentence:\nThe baby _____ (cry) when she is hungry.",
+        "options": [
+            "cry",
+            "cries",
+            "cried",
+            "crying"
+        ],
+        "correct": 1,
+        "explanation": "The subject \"baby\" is singular, so the verb \"cry\" takes the \"-s\" form in the simple present tense, making it \"cries.\""
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Choose the correct form of the verb in the following sentence:\nThe cat _____ (run) away when it heard the loud noise.",
+        "options": [
+            "runs",
+            "run",
+            "ran",
+            "running"
+        ],
+        "correct": 2,
+        "explanation": "The verb \"run\" is an irregular verb. Its simple past form is \"ran.\" Therefore, according to the rule of simple past tense, V2 form, that is, ‘ran’ will be the correct answer."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Choose the correct form of the verb in the following sentence:\nShe _____ (not see) him for weeks before they finally met at the conference.",
+        "options": [
+            "not saw",
+            "didn’t saw",
+            "hadn’t seen",
+            "didn't see"
+        ],
+        "correct": 3,
+        "explanation": "The correct structure for negative sentences in the simple past tense is \"didn't\" + base form of the verb. \"Saw\" is incorrect because \"didn't\" already indicates the past tense. Therefore, the correct form is \"didn't see.\""
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Choose the correct form of the verb in the following sentence:\nHe _____ (not write) the report until the teacher reminded him.",
+        "options": [
+            "not wrote",
+            "didn’t write",
+            "hadn’t wrote",
+            "not written"
+        ],
+        "correct": 1,
+        "explanation": "In the simple past tense, negative sentences use \"didn't\" followed by the base form of the verb. The base form of \"write\" is correct here. \"Wrote\" would be wrong because we use \"didn't\" to indicate the past."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Choose the correct form of the verb in the following sentence:\nShe _____ (try) several times to reach him, but he _____ (not answer).",
+        "options": [
+            "tried, didn’t answered",
+            "tried, didn’t answer",
+            "tries, didn’t answer",
+            "had tried, doesn’t answer"
+        ],
+        "correct": 1,
+        "explanation": "Both events occurred in the past, so we use \"tried\" in the simple past for the first verb. For the second verb, we use \"didn't answer\" since it's a negative sentence in the past. \"Didn’t\" is followed by the base form of the verb \"answer,\" not \"answered.\""
+    },
+    {
+        "questionNo": "Q26.",
+        "question": "___ the CEO often make important decisions without consulting the board?",
+        "options": [
+            "Does",
+            "Do",
+            "Did",
+            "Is"
+        ],
+        "correct": 0,
+        "explanation": "The subject \"the CEO\" is singular, so \"does\" is used in the simple present tense. The base form \"make\" follows \"does\" to complete the question."
+    },
+    {
+        "questionNo": "Q27.",
+        "question": "___ the research team complete the analysis before the deadline last month?",
+        "options": [
+            "Did",
+            "Do",
+            "Was",
+            "Had"
+        ],
+        "correct": 0,
+        "explanation": "The question refers to a specific past event (\"last month\"), so \"did\" is used. The base form \"complete\" follows \"did.\""
+    }
+]
